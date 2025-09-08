@@ -1,4 +1,4 @@
-# demo02
+# Flutter Demo App (Note App)
 
 A new Flutter project.
 
